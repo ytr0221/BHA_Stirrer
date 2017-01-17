@@ -8,7 +8,7 @@ For this device you do not need an Arduino or equivalent microprocessor. Do make
 | ------------: | ------------: | :------------ | :------------ | ------------: |
 |1|1|80 mm ファン(PC用)|[Farnell](http://nl.farnell.com/bisonic/sp802512l-03/fan-80x25mm-12vdc/dp/1832326), [EOO](http://www.eoo-bv.nl/index.php?_a=viewProd&productId=13244) |3.25|
 |2|2|ネオジム磁石|ダイソー|¥100|
-|3|1|Potentiometer 100 ohm 2W|[Farnell](http://nl.farnell.com/bourns/93r1a-r22-a05l/potentiometer-linear-100-ohm-10/dp/2321801), [Mouser](http://nl.mouser.com/ProductDetail/Bourns/3540S-1-151L/?qs=y%252bjD4UO5DKWx%252bnbasP7iSA%3d%3d), [RS Online](http://nl.rs-online.com/web/p/potentiometers/5225254/)|6.34|
+|3|1|ポテンショメータ 100Ω 2W|[RS Online](https://jp.rs-online.com/mobile/p/potentiometers/5225254/)|¥695|
 |4|4|ロッカースイッチ|[RS Online](https://jp.rs-online.com/mobile/p/rocker-switches/7182247/)|¥107|
 |5|1|DCジャック|[Akizuki](http://akizukidenshi.com/catalog/g/gC-06342/)|¥60|
 |6|1|7.5 W power supply|[iPrototype](https://iprototype.nl/products/accessoires/power/adapter), [EOO](http://www.eoo-bv.nl/index.php?_a=viewProd&productId=11642)|13.95|
