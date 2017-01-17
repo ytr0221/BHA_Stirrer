@@ -5,7 +5,7 @@
 
 |No|個数|品|購入できる場所|価格|
 | ------------: | ------------: | :------------ | :------------ | ------------: |
-|1|1|80 mm ファン(PC用)|[RS Online](http://jp.rs-online.com/web/p/axial-fans/7932418/)|3.25|
+|1|1|80 mm ファン(PC用)|[RS Online](http://jp.rs-online.com/web/p/axial-fans/7932418/),[ツクモ](http://shop.tsukumo.co.jp/goods/4937925913084/?cid=Google_S111101),[Monotaro](https://www.monotaro.com/p/7602/6666/?gclid=Cj0KEQiAnvfDBRCXrabLl6-6t-0BEiQAW4SRUMn0TRBx46WJ0-AA60Il2e-1WXhYKi7BNeRlu53ahHcaAkHm8P8HAQ&utm_medium=cpc&utm_source=Adwords&cm_mmc=Adwords-_-cpc-_-PLA-_-76026666&ef_id=WD5JDQAAAFehQ9Pn:20170117083148:s)|3.25|
 |2|2|ネオジム磁石|ダイソー|¥100|
 |3|1|ポテンショメータ 100Ω 2W|[RS Online](https://jp.rs-online.com/mobile/p/potentiometers/5225254/)|¥695|
 |4|4|ロッカースイッチ|[RS Online](https://jp.rs-online.com/mobile/p/rocker-switches/7182247/)|¥107|
