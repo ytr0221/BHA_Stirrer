@@ -12,8 +12,8 @@ For this device you do not need an Arduino or equivalent microprocessor. Do make
 |4|4|ロッカースイッチ|[RS Online](https://jp.rs-online.com/mobile/p/rocker-switches/7182247/)|¥107|
 |5|1|DCジャック|[Akizuki](http://akizukidenshi.com/catalog/g/gC-06342/)|¥60|
 |6|1|7.5 W power supply|[iPrototype](https://iprototype.nl/products/accessoires/power/adapter), [EOO](http://www.eoo-bv.nl/index.php?_a=viewProd&productId=11642)|13.95|
-|7|1|Red LED|[Farnell](http://nl.farnell.com/webapp/wcs/stores/servlet/ProductDisplay?catalogId=15001&langId=31&urlRequestType=Base&partNumber=2335728&storeId=10168), [EOO](http://www.eoo-bv.nl/index.php?_a=viewProd&productId=5942), [iPrototype](https://iprototype.nl/products/components/led-lcd/rood#)|0.06|
-|8|1|470 ohm resistor|[Farnell](http://nl.farnell.com/webapp/wcs/stores/servlet/ProductDisplay?catalogId=15001&langId=31&urlRequestType=Base&partNumber=2329680&storeId=10168), [iPrototype](https://iprototype.nl/products/components/resistors/470R), [EOO](http://www.eoo-bv.nl/index.php?_a=viewProd&productId=14841)|0.04|
+|7|1|LED(赤)|[RS Online](http://jp.rs-online.com/web/p/visible-leds/3208667/)|¥44.2|
+|8|1|470Ω 抵抗|[RS Online](http://jp.rs-online.com/web/p/through-hole-fixed-resistors/4911291/)|¥25|
 |9|1|回転子|[Monotaro](https://www.monotaro.com/g/00177579/)|¥188-1188|
 |10|4|ゴム足|[RS Online](http://jp.rs-online.com/web/p/fixed-height-mounts-feet/4171796/)|¥742|
 |11|1|Heating foil|[Sparkfun](https://www.sparkfun.com/products/11288), [Floris.cc](https://www.floris.cc/shop/en/general-components/514-heating-pad-5x10cm.html?search_query=warm&results=4), [Conrad](https://www.conrad.nl/nl/thermo-verwarmingsfolie-zelfklevend-12-vdc-12-vac-22-w-veiligheidstype-ipx4-90-mm-1216623.html)|4.50|
