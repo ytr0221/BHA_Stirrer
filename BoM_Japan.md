@@ -1,12 +1,11 @@
-## Bill of Materials
+## 部品リスト
 
-For this device you do not need an Arduino or equivalent microprocessor. Do make sure you have enough 3mm material to cut the design from and a bunch of M3 10mm bolts and nuts for the assembly.
-
+このプロジェクトにはArduinoなどは要りません。 3mmアクリル板とM3サイズのナットを用意してください。
 ### Must have
 
-|No|Amount|Description|Supplier NL|Cost|
+|No|個数|品|購入できる場所|価格|
 | ------------: | ------------: | :------------ | :------------ | ------------: |
-|1|1|80 mm ファン(PC用)|[Farnell](http://nl.farnell.com/bisonic/sp802512l-03/fan-80x25mm-12vdc/dp/1832326), [EOO](http://www.eoo-bv.nl/index.php?_a=viewProd&productId=13244) |3.25|
+|1|1|80 mm ファン(PC用)|[RS Online](http://jp.rs-online.com/web/p/axial-fans/7932418/)|3.25|
 |2|2|ネオジム磁石|ダイソー|¥100|
 |3|1|ポテンショメータ 100Ω 2W|[RS Online](https://jp.rs-online.com/mobile/p/potentiometers/5225254/)|¥695|
 |4|4|ロッカースイッチ|[RS Online](https://jp.rs-online.com/mobile/p/rocker-switches/7182247/)|¥107|
