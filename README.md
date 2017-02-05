@@ -1,5 +1,5 @@
 #NOTE  
-Please add a 100 ohm resistor to the fan.   
+Please add a 100 ohm resistor to the if the stirring thing gets thrown inside.   
 
 #BHA Stirrer
 This repo contains the designs and source files of a **DIY Magnetic Stirrer**. Such a device is used to stir liquids continiously for a long period of time. The optional heating pad keeps the liquid warm, it is not design for boiling or cooking.
