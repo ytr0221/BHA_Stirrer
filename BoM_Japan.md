@@ -13,7 +13,7 @@
 |6|1|7.5 W power supply|[iPrototype](https://iprototype.nl/products/accessoires/power/adapter), [EOO](http://www.eoo-bv.nl/index.php?_a=viewProd&productId=11642)|13.95||
 |7|1|LED(赤)|[RS Online](http://jp.rs-online.com/web/p/visible-leds/3208667/)|¥44.2||
 |8|1|470Ω 抵抗|[RS Online](http://jp.rs-online.com/web/p/through-hole-fixed-resistors/4911291/)|¥25||
-|9|1|回転子|[Monotaro](https://www.monotaro.com/g/00177579/)|¥188-1188||
+|9|1|回転子|[Monotaro](https://www.monotaro.com/g/01145071/?displayId=24)|¥129-199||
 |10|4|ゴム足|[Amazon](http://amzn.asia/bm0HBuH), [RS Online](http://jp.rs-online.com/web/p/fixed-height-mounts-feet/4171796/)|¥399||
 |11|1|フィルムヒーター|[Monotaro](https://www.monotaro.com/g/01362644/?t.q=%83t%83B%83%8B%83%80%83q%81%5B%83%5E),[Monotaro(ペルチェ素子)](https://www.monotaro.com/g/00363679/?t.q=%83y%83%8B%83%60%83F%91f%8Eq),[Akizuki](http://akizukidenshi.com/catalog/g/gM-08908/)|4.50||
 |12|3|68Ω 5V 抵抗|[RS Online](http://jp.rs-online.com/web/p/through-hole-fixed-resistors/7629456/)|¥13.36||
